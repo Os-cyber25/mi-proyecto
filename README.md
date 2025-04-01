@@ -40,8 +40,8 @@ POST: Crear Nueva Tarea
 PUT: Actualiza tareas
 DELETE
 
+![image alt](https://github.com/Os-cyber25/mi-proyecto/blob/6baacbbee89a6002dcf29980fc4c049a15be65c0/Captura%20de%20pantalla%202025-04-01%20090623.png)
 
 Espero que sea de utilidad
 
-End
-###Endproyecto de prueba con Git
+
